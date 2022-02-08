@@ -1,0 +1,83 @@
+.color-area {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f7f7f7;
+  border-radius: 15px;
+  padding: 1em 3em;
+  margin: 0 auto;
+  min-height: 145px;
+  max-height: 145px;
+}
+
+.color-area div {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  transition: all 0.4s;
+}
+
+.color-area div:hover {
+  width: 110px;
+  height: 110px;
+  cursor: pointer;
+}
+
+.color-area div:active {
+  width: 100px;
+  height: 100px;
+}
+
+/* red */
+.color-area div:first-child {
+  background-color: red;
+  color: red;
+}
+
+/* orange */
+.color-area div:nth-child(2) {
+  background-color: orange;
+  color: orange;
+}
+
+/* yellow */
+.color-area div:nth-child(3) {
+  background-color: yellow;
+  color: yellow;
+}
+
+/* yellow-green */
+.color-area div:nth-child(4) {
+  background-color: yellowgreen;
+  color: yellowgreen;
+}
+
+/* green */
+.color-area div:nth-child(5) {
+  background-color: green;
+  color: green;
+}
+
+/* teal */
+.color-area div:nth-child(6) {
+  background-color: teal;
+  color: teal;
+}
+
+/* blue */
+.color-area div:nth-child(7) {
+  background-color: blue;
+  color: blue;
+}
+
+/* indigo */
+.color-area div:nth-child(8) {
+  background-color: blueviolet;
+  color: blueviolet;
+}
+
+/* violet */
+.color-area div:last-child {
+  background-color: violet;
+  color: violet;
+}

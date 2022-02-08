@@ -1,0 +1,14 @@
+body {
+  background-color: #e5e5e5;
+  color: #e41212;
+}
+
+.App {
+  width: 80%;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: #da46ff;
+}

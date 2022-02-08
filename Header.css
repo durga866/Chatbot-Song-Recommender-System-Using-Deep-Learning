@@ -1,0 +1,11 @@
+header {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: baseline;
+  margin-top: 3em;
+}
+
+header img {
+  max-width: 100px;
+  margin-left: 2em;
+}

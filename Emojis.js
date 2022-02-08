@@ -1,0 +1,244 @@
+export const Emojis = [
+    {
+        emoji: '🪘',
+        genre: "afrobeat"
+    },
+    {
+        emoji: '👩‍🎤',
+        genre: "alt-rock"
+    },
+    {
+        emoji: '🎸',
+        genre: "alternative"
+    },
+    {
+        emoji: '🌊',
+        genre: "ambient"
+    },
+    {
+        emoji: '🍣',
+        genre: "anime"
+    },
+    {
+        emoji: '🌾',
+        genre: "bluegrass"
+    },
+    {
+        emoji:'🫐',
+    	genre:"blues"
+    },
+    {
+        emoji:'🕶️',
+        genre:"bossanova"
+    },
+    {
+        emoji:'👶',	
+        genre:"children"
+    },
+    {
+        emoji:'🧊',	
+        genre:"chill"
+    },
+    {
+        emoji:'🎻',
+        genre:"classical"
+    },
+    {
+        emoji:'🎉',	
+        genre:"club"
+    },
+    {
+        emoji:'😂',
+        genre:"comedy"
+    },
+    {
+        emoji:'🤠',	
+        genre:"country"
+    },
+    {
+        emoji:'👯',
+        genre:"dance"
+    },
+    {
+        emoji:'💀',
+        genre:"death-metal"
+    },
+    {
+        emoji:'🕺',
+        genre:"disco"
+    },
+    {
+        emoji:'👾',
+        genre:"drum-and-bass"
+    },
+    {
+        emoji:'🔌',
+        genre:	"edm"
+    },
+    {
+        emoji:'😈',
+        genre:"emo"
+    },
+    {
+        emoji:'🚙',
+        genre:"garage"
+    },
+    {
+        emoji:'👼',	
+        genre: "gospel"
+    },
+    {
+        emoji:'🥀',
+        genre:"goth"
+    },
+    {
+        emoji:'🪰',
+        genre:"grunge"
+    },
+    {
+        emoji:'🙂',
+        genre:"happy"
+    },
+    {
+        emoji:'🏔️',	
+        genre:"heavy-metal"
+    },
+    {
+        emoji:'💲',	
+        genre:"hip-hop"
+    },
+    {
+        emoji:'🏠',
+        genre:"house"
+    },
+    {
+        emoji:'🤓',
+        genre:"indie"
+    },
+    {
+        emoji:'🏭',
+        genre:"industrial"
+    },
+    {
+        emoji:'✨',
+        genre:"j-pop"
+    },
+    {
+        emoji:'🎷',	
+        genre:"jazz"
+    },
+    {
+        emoji:'🇰🇷',	
+        genre:"k-pop"
+    },
+    {
+        emoji:'🦩',	
+        genre:"latino"
+    },
+    {
+        emoji:'⚙️',	
+        genre:"metal"
+    },
+    {
+        emoji:'🪶',
+    	genre:"new-age"
+    },
+    {
+        emoji:'🥳',
+        genre:"party"
+    },
+    {
+        emoji:'🎹',
+        genre:	"piano"
+    },
+    {
+        emoji:'🎤',
+        genre:"pop"
+    },
+    {
+        emoji:'🍄',
+        genre:	"psych-rock"
+    },
+    {
+        emoji:'🤬',	
+        genre:"punk"
+    },
+    {
+        emoji:'💅',	
+        genre:"r-n-b"
+    },
+    {
+        emoji:'☔',
+        genre:"rainy-day"
+    },
+    {
+        emoji:'💨',
+        genre:"reggae"
+    },
+    {
+        emoji:'‼️',
+        genre:	"reggaeton"
+    },
+    {
+        emoji:'🚗',	
+        genre:"road-trip"
+    },
+    {
+        emoji:'⚡',	
+        genre:"rock"
+    },
+    {
+        emoji:'💕',	
+        genre:"romance"
+    },
+    {
+        emoji:'😥',
+        genre:	"sad"
+    },
+    {
+        emoji:'💃',	
+        genre:"salsa"
+    },
+    {
+        emoji:'😴',	
+        genre:"sleep"
+    },
+    {
+        emoji:'🎶',	
+        genre:"songwriter"
+    },
+    {
+        emoji:'🔔',	
+        genre:"soul"
+    },
+    {
+        emoji:'📚',	
+        genre:"study"
+    },
+    {
+        emoji:'🌞',	
+        genre:"summer"
+    },
+    {
+        emoji:'🕴️',	
+        genre:"synth-pop"
+    },
+    {
+        emoji:'🔥',	
+        genre:"tango"
+    },
+    {
+        emoji:'🤖',
+        genre:"techno"
+    },
+    {
+        emoji:'💪',	
+        genre:"work-out"
+    },
+    {
+        emoji:'🌎',
+        genre:"world-music"
+    }
+]
+
+//https://spreadsheets.google.com/feeds/list/1F_vrkHkT4VBLVUU4v-yqNTTNgtWc9sRX98V2wMkXQrU/od6/public/values?alt=json

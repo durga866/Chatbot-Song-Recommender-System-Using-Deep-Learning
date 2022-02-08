@@ -1,0 +1,36 @@
+.emoji-picker {
+  margin-bottom: 1em;
+}
+
+.emoji-area {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #f7f7f7;
+  border-radius: 15px;
+  padding: 1em 3em;
+  margin: 0 auto;
+}
+
+.emoji {
+  flex: 1 1 auto;
+  min-width: 75px;
+  max-width: 75px;
+  padding: 0 0.25em;
+  border-radius: 15px;
+  transition: background-color 0.5s;
+}
+
+.emoji:hover {
+  background-color: #4664ff;
+  cursor: pointer;
+}
+
+.emoji:active {
+  background-color: #3a54d7;
+}
+
+.emoji p {
+  text-align: center;
+}
